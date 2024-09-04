@@ -1,1 +1,1 @@
-# Django-app-Practice-
+# Django-app-Practice
